@@ -5,7 +5,8 @@ import org.springframework.util.StringUtils;
 import java.util.function.*;
 
 /**
- * @Author:tanghui
+ * @Author:tang
+ *  使用lambda 进行接口方法的覆盖，并返回一个该接口的实现类对象，具体实现了该接口方法。
  * @Date:2018/8/31 15:08
  */
 public class LambdaFunction {
